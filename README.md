@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=FFBA09&center=true&vCenter=true&width=700&lines=Dimas+Damar+Nusantoro%2C+S.Si." alt="Typing SVG" />
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=FFBA09&center=true&vCenter=true&width=700&lines=Mathematics+Graduate+%26+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+MATLAB;Hybrid+Epidemiological-ML+Researcher+%40+BRIN+RI;Turning+math+into+impact%2C+one+dataset+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=FFBA09&center=true&vCenter=true&width=700&lines=Mathematics+Graduate+%26+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+MATLAB;Hybrid+Epidemiological-ML+Researcher+%40+BRIN+RI;Turning+math+into+impact." alt="Typing SVG" />
 
 <br/>
 
