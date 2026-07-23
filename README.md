@@ -246,4 +246,4 @@ Lihat detail lengkap tiap proyek â€” overview, metodologi, metrik, tech stack â€
 
 </div>
 
-<img width="100%" src="./footer-animation.svg" alt="Footer Animation" />
+<img width="100%" src="footer-animation.svg" alt="Footer Animation" />
