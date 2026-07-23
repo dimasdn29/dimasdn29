@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00539C,100:FFBA09&height=180&section=header&text=Dimas%20Damar%20Nusantoro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Mathematics%20Graduate%20%7C%20Data%20Analyst%20%26%20Data-Driven&descSize=17&descAlignY=58&animation=fadeIn" />
+<h1 align="center">Dimas Damar Nusantoro</h1>
+<p align="center"><b>Mathematics Graduate</b> · <b>Data Analyst &amp; Data-Driven</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Math+into+Impact+%F0%9F%93%8A;Hybrid+Epidemiological-ML+Modeling;Open+to+Data+Analyst+%2F+Data+Science+Roles&font=JetBrains+Mono&center=true&width=560&height=40&color=00539C&vCenter=true&size=18&pause=1400">
@@ -6,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Looking%20for-Data%20Analyst%20%2F%20Data%20Science%20Opportunities-FFBA09?style=for-the-badge&labelColor=00539C">
-  <img src="https://komarev.com/ghpvc/?username=dimasdn29&style=for-the-badge&color=00539C&label=PROFILE+VIEWS">
+  <img src="https://img.shields.io/badge/Profile%20Views-komarev-00539C?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <p align="center">
@@ -26,19 +27,25 @@
 - 📫 Hubungi saya: **dimasdamarn@gmail.com**
 - 🌐 Portofolio lengkap: **[heydimdam.vercel.app](https://heydimdam.vercel.app/)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFBA09,100:00539C&height=3&section=header" />
+---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,mysql,latex&theme=light" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" title="scikit-learn"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" title="Power BI"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" title="Tableau"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" title="Excel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
 <p align="center">
@@ -47,25 +54,6 @@
   <img src="https://img.shields.io/badge/-Mathematical%20Modeling-00539C?style=flat-square">
   <img src="https://img.shields.io/badge/-SIR--UV%20Epidemiological%20Model-00539C?style=flat-square">
   <img src="https://img.shields.io/badge/-Support%20Vector%20Regression-00539C?style=flat-square">
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFBA09,100:00539C&height=3&section=header" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dimasdn29/dimasdn29/output/github-contribution-grid-snake.svg" alt="Snake animation of GitHub contributions" width="100%" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimasdn29&show_icons=true&theme=transparent&hide_border=true&title_color=00539C&icon_color=FFBA09&text_color=333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasdn29&layout=compact&theme=transparent&hide_border=true&title_color=00539C&text_color=333" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasdn29&theme=transparent&hide_border=true&ring=FFBA09&fire=00539C&currStreakLabel=00539C" />
 </p>
 
 ---
@@ -100,3 +88,21 @@
 </p>
 
 <p align="center"><i>"Turning math into impact — one dataset at a time."</i></p>
+
+---
+
+<details>
+<summary><b>📊 GitHub Stats & Snake Animation (klik untuk expand)</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dimasdn29/dimasdn29/output/github-contribution-grid-snake.svg" alt="Snake animation of GitHub contributions" width="100%" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimasdn29&show_icons=true&theme=transparent&hide_border=true&title_color=00539C&icon_color=FFBA09&text_color=333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasdn29&layout=compact&theme=transparent&hide_border=true&title_color=00539C&text_color=333" />
+</p>
+
+</details>
