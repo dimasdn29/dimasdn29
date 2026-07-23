@@ -20,7 +20,7 @@
 
 ## 👤 About Me
 
-> *"Every dataset tells a story — my work is translating climate patterns and case numbers into models that can actually protect people."*
+> *Carl Friedrich Gauss: "Mathematics is the queen of the sciences."*
 
 <p align="justify">
 Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universitas Andalas</b>, Padang. Fokus saya ada di tiga area: <b>Data Analytics</b>, <b>Machine Learning</b>, dan <b>Applied Mathematics</b>. Skripsi saya membangun model hibrida epidemiologi–machine learning: kerangka kompartemen <b>SIR-UV</b> dipadukan dengan <b>Support Vector Regression</b> untuk memprediksi transmisi Demam Berdarah Dengue dari variabel iklim. Riset ini dikembangkan selama program <b>MBKM Magang Berdampak BRIN</b>, di Pusat Riset Komputasi, KST Soekarno – Cibinong.
@@ -230,7 +230,7 @@ Selain statistik standar di atas, aktivitas commit saya juga divisualisasikan le
 
 [![Ask Me Anything](https://img.shields.io/badge/💬_Ask_Me_Anything-Let's_Talk!-FFBA09?style=for-the-badge&labelColor=010F45)](https://github.com/dimasdn29/dimasdn29/issues/new?title=Hi+Dimas!&body=Write+your+question+or+message+here...)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Every+dataset+tells+a+story+%E2%80%94+my+work+is+translating+numbers+into+narrative.&author=Dimas+Damar+Nusantoro" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Every+dataset+tells+a+story+ - +my+work+is+translating+numbers+into+narrative.&author=Dimas+Damar+Nusantoro" alt="Quote"/>
 
 <br/><br/>
 
