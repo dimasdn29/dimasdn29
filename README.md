@@ -165,15 +165,6 @@ Lihat detail lengkap tiap proyek â€” overview, metodologi, metrik, tech stack â€
 
 <div align="center">
 
-<!--
-  metrics.svg di-generate & di-commit otomatis oleh GitHub Action (lihat .github/workflows/metrics.yml),
-  bukan lagi dari layanan pihak ketiga (github-readme-stats.vercel.app) yang sedang down.
-  Gambar ini baru muncul SETELAH workflow "Metrics" berhasil jalan minimal 1x.
--->
-<img width="100%" src="./metrics.svg" alt="GitHub Metrics" />
-
-<br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=dimasdn29&theme=github-dark-blue&hide_border=true&background=010F45&stroke=FFBA09&ring=FFBA09&fire=FFF6E6&currStreakLabel=FFBA09&sideLabels=FFBA09&currStreakNum=FFF6E6&sideNums=FFF6E6" />
 
 </div>
