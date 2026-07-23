@@ -1,0 +1,9 @@
+<svg width="1600" height="150" viewBox="0 0 1600 150" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="#010f45"/>
+<path d="M0 80 Q400 20 800 80 T1600 80 V150 H0 Z" fill="#00539c">
+<animate attributeName="d" dur="8s" repeatCount="indefinite"
+values="M0 80 Q400 20 800 80 T1600 80 V150 H0 Z;
+M0 60 Q400 120 800 60 T1600 60 V150 H0 Z;
+M0 80 Q400 20 800 80 T1600 80 V150 H0 Z"/>
+</path>
+</svg>
