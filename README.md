@@ -1,4 +1,4 @@
-<img width="100%" src="./header-animation.svg" alt="Header Animation" />
+<!-- <img width="100%" src="./header-animation.svg" alt="Header Animation" /> -->
 
 <div align="center">
 
