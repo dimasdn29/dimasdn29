@@ -178,7 +178,7 @@ Lihat detail lengkap tiap proyek â€” overview, metodologi, metrik, tech stack â€
 </div>
 
 <p align="justify">
-Selain statistik standar di atas, aktivitas commit saya juga divisualisasikan lewat tiga animasi interaktif yang dibangun dari kontribusi GitHub sehari-hari: <b>Contribution Snake</b> yang "memakan" kotak-kotak commit secara berurutan, <b>Contribution Pac-Man</b> yang menyusuri grid kontribusi ala game klasik, dan <b>Contribution Breakout</b> yang menghancurkan setiap kotak commit seperti brick dalam game arcade. Ketiganya di-generate otomatis lewat GitHub Actions setiap 12 jam, lalu ditutup dengan animasi gelombang pada footer di bagian paling bawah profil ini.
+Selain statistik standar di atas, aktivitas commit saya juga divisualisasikan lewat tiga animasi interaktif yang dibangun dari kontribusi GitHub sehari-hari: <b>Contribution Pac-Man</b> yang menyusuri grid kontribusi ala game klasik, dan <b>Contribution Breakout</b> yang menghancurkan setiap kotak commit seperti brick dalam game arcade. Ketiganya di-generate otomatis lewat GitHub Actions setiap 12 jam, lalu ditutup dengan animasi gelombang pada footer di bagian paling bawah profil ini.
 </p>
 
 <div align="center">
