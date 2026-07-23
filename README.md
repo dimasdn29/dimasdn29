@@ -20,7 +20,7 @@
 
 ## 👤 About Me
 
-> *"Mathematics is the queen of the sciences." -Carl Friedrich Gauss*
+> *"Every dataset tells a story — my work is translating climate patterns and case numbers into models that can actually protect people."*
 
 <p align="justify">
 Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universitas Andalas</b>, Padang. Fokus saya ada di tiga area: <b>Data Analytics</b>, <b>Machine Learning</b>, dan <b>Applied Mathematics</b>. Skripsi saya membangun model hibrida epidemiologi–machine learning: kerangka kompartemen <b>SIR-UV</b> dipadukan dengan <b>Support Vector Regression</b> untuk memprediksi transmisi Demam Berdarah Dengue dari variabel iklim. Riset ini dikembangkan selama program <b>MBKM Magang Berdampak BRIN</b>, di Pusat Riset Komputasi, KST Soekarno – Cibinong.
@@ -165,12 +165,16 @@ Lihat detail lengkap tiap proyek — overview, metodologi, metrik, tech stack �
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dimasdn29&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=010F45&title_color=FFBA09&icon_color=FFBA09&text_color=C3CDF2&ring_color=FFBA09" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasdn29&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=010F45&title_color=FFBA09&text_color=C3CDF2" />
+<!--
+  metrics.svg di-generate & di-commit otomatis oleh GitHub Action (lihat .github/workflows/metrics.yml),
+  bukan lagi dari layanan pihak ketiga (github-readme-stats.vercel.app) yang sedang down.
+  Gambar ini baru muncul SETELAH workflow "Metrics" berhasil jalan minimal 1x.
+-->
+<img width="100%" src="./metrics.svg" alt="GitHub Metrics" />
+
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=dimasdn29&theme=github-dark-blue&hide_border=true&background=010F45&stroke=FFBA09&ring=FFBA09&fire=FFF6E6&currStreakLabel=FFBA09&sideLabels=FFBA09&currStreakNum=FFF6E6&sideNums=FFF6E6" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dimasdn29&theme=github-compact&hide_border=true&area=true&bg_color=010F45&color=FFBA09&line=FFBA09&point=FFF6E6&area_color=052069" />
 
 </div>
 
