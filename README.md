@@ -17,8 +17,6 @@
 
 ## 👤 About Me
 
-<img align="right" width="300" src="./header-animation.svg" alt="Math & Data Animation"/>
-
 > *"Every dataset tells a story — my work is translating climate patterns and case numbers into models that can actually protect people."*
 
 Saya **Dimas Damar Nusantoro, S.Si** — lulusan **Matematika** dari **Universitas Andalas**, Padang, dengan fokus pada **Data Analytics**, **Machine Learning**, dan **Applied Mathematics**. Skripsi saya membangun **model hibrida epidemiologi–machine learning** (kerangka kompartemen SIR-UV + Support Vector Regression) untuk memprediksi transmisi Demam Berdarah Dengue dari variabel iklim, dikembangkan selama program riset **MBKM Magang Berdampak BRIN** di Pusat Riset Komputasi, KST Soekarno – Cibinong.
