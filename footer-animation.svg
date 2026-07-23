@@ -1,0 +1,119 @@
+<svg width="100%" height="100%" viewBox="0 0 1600 170" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#123099"/>
+      <stop offset="50%" stop-color="#052069"/>
+      <stop offset="100%" stop-color="#010f45"/>
+    </linearGradient>
+
+    <pattern id="dotGridF" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#ffba09" opacity="0.18"/>
+    </pattern>
+
+    <linearGradient id="curveGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e0a400"/>
+      <stop offset="100%" stop-color="#ffba09"/>
+    </linearGradient>
+
+    <style>
+      <![CDATA[
+        .gridF { animation: gridPulseF 6s ease-in-out infinite; }
+        @keyframes gridPulseF {
+          0%, 100% { opacity: 0.5; }
+          50%      { opacity: 0.95; }
+        }
+
+        .curve-pathF {
+          stroke-dasharray: 2000;
+          stroke-dashoffset: 2000;
+          animation: drawCurveF 3s cubic-bezier(.16,1,.3,1) forwards;
+        }
+        @keyframes drawCurveF {
+          to { stroke-dashoffset: 0; }
+        }
+
+        .particleF {
+          animation: particlePulseF 1.6s ease-in-out infinite;
+        }
+        @keyframes particlePulseF {
+          0%, 100% { r: 5px; opacity: 1; }
+          50%      { r: 7px; opacity: 0.6; }
+        }
+
+        .quoteF {
+          opacity: 0;
+          animation: fadeInF 0.9s ease-out 0.35s forwards;
+        }
+        @keyframes fadeInF {
+          from { opacity: 0; transform: translateY(10px); }
+          to   { opacity: 1; transform: translateY(0); }
+        }
+
+        .pill {
+          opacity: 0;
+          animation: pillIn 0.5s cubic-bezier(.34,1.45,.64,1) forwards;
+        }
+        .pill1 { animation-delay: 0.6s; }
+        .pill2 { animation-delay: 0.75s; }
+        .pill3 { animation-delay: 0.9s; }
+        @keyframes pillIn {
+          from { opacity: 0; transform: translateY(8px) scale(0.9); }
+          to   { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .pill-breathe {
+          animation: pillBreathe 3.4s ease-in-out infinite;
+        }
+        @keyframes pillBreathe {
+          0%, 100% { filter: drop-shadow(0 0 0 rgba(255,186,9,0)); }
+          50%      { filter: drop-shadow(0 0 6px rgba(255,186,9,0.55)); }
+        }
+
+        .accent-lineF {
+          stroke-dasharray: 1600;
+          stroke-dashoffset: 1600;
+          animation: drawLineF 1.4s ease-out forwards;
+        }
+        @keyframes drawLineF {
+          to { stroke-dashoffset: 0; }
+        }
+      ]]>
+    </style>
+  </defs>
+
+  <rect width="1600" height="170" fill="url(#bgGradF)"/>
+  <rect class="gridF" width="1600" height="170" fill="url(#dotGridF)"/>
+
+  <line class="accent-lineF" x1="0" y1="4" x2="1600" y2="4" stroke="#ffba09" stroke-width="4"/>
+
+  <!-- Closing curve, mirrored motif of header -->
+  <path id="closePath" class="curve-pathF"
+        d="M 60,60 C 160,60 190,120 280,120 C 380,120 410,50 510,50 C 610,50 640,110 740,110"
+        fill="none" stroke="url(#curveGradF)" stroke-width="3" stroke-linecap="round"/>
+  <circle class="particleF" r="5" fill="#fff8ec" stroke="#010f45" stroke-width="2">
+    <animateMotion dur="2.8s" repeatCount="indefinite"
+      path="M 60,60 C 160,60 190,120 280,120 C 380,120 410,50 510,50 C 610,50 640,110 740,110"/>
+  </circle>
+
+  <!-- Quote -->
+  <text class="quoteF" x="800" y="70"
+        font-family="'Space Grotesk','Segoe UI',sans-serif" font-style="italic" font-size="20" fill="#fff8ec">
+    "Turning math into impact &#8212; one dataset at a time."
+  </text>
+
+  <!-- Credential pills -->
+  <g class="pill pill1 pill-breathe" transform="translate(800,95)">
+    <rect width="120" height="30" rx="15" fill="#fff6e6" stroke="#010f45" stroke-width="2"/>
+    <text x="60" y="20" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#00539c">Mathematics</text>
+  </g>
+  <g class="pill pill2 pill-breathe" transform="translate(932,95)">
+    <rect width="130" height="30" rx="15" fill="#fff6e6" stroke="#010f45" stroke-width="2"/>
+    <text x="65" y="20" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#00539c">Data Analyst</text>
+  </g>
+  <g class="pill pill3 pill-breathe" transform="translate(1074,95)">
+    <rect width="150" height="30" rx="15" fill="#ffba09" stroke="#010f45" stroke-width="2"/>
+    <text x="75" y="20" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#010f45">BRIN Researcher</text>
+  </g>
+
+  <line class="accent-lineF" x1="0" y1="166" x2="1600" y2="166" stroke="#ffba09" stroke-width="4"/>
+</svg>
