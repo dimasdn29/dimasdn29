@@ -230,7 +230,7 @@ Selain statistik standar di atas, aktivitas commit saya juga divisualisasikan le
 
 [![Ask Me Anything](https://img.shields.io/badge/💬_Ask_Me_Anything-Let's_Talk!-FFBA09?style=for-the-badge&labelColor=010F45)](https://github.com/dimasdn29/dimasdn29/issues/new?title=Hi+Dimas!&body=Write+your+question+or+message+here...)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Every+dataset+tells+a+story+ - +my+work+is+translating+numbers+into+narrative.&author=Dimas+Damar+Nusantoro" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Every+dataset+tells+a+story+-+my+work+is+translating+numbers+into+narrative.&author=Dimas+Damar+Nusantoro" alt="Quote"/>
 
 <br/><br/>
 
