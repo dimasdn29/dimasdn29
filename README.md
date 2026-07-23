@@ -1,7 +1,10 @@
 <!-- <img width="100%" src="./header-animation.svg" alt="Header Animation" /> -->
 
 <div align="center">
-**Dimas Damar Nusantoro, S.Si**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=C9A24B&center=true&vCenter=true&width=700&lines=Dimas+Damar+Nusantoro%2C+S.Si." alt="Typing SVG" />
+
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=C9A24B&center=true&vCenter=true&width=700&lines=Dimas+Damar+Nusantoro%2C+S.Si.;Mathematics+Graduate+%26+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+MATLAB;Hybrid+Epidemiological-ML+Researcher+%40+BRIN;Turning+math+into+impact%2C+one+dataset+at+a+time." alt="Typing SVG" />
 
 <br/>
