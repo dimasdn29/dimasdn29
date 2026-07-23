@@ -183,16 +183,6 @@ Selain statistik standar di atas, aktivitas commit saya juga divisualisasikan le
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimasdn29/dimasdn29/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimasdn29/dimasdn29/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dimasdn29/dimasdn29/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
 ### 👻 Contribution Pac-Man
 
 <picture>
