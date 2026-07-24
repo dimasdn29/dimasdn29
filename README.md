@@ -30,14 +30,14 @@ Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universit
 
 - 📊 **Data Analysis & Visualization** — mengolah raw data menjadi insight yang actionable, menggunakan SQL, Excel, Power BI, dan Tableau.
 - 🧮 **Mathematical Modeling** — membangun model persamaan diferensial dan kompartemen untuk dinamika dunia nyata, dari epidemiologi hingga demografi.
-- 🤖 **Machine Learning** — menerapkan regresi dan model prediktif (SVR, ANN) untuk memperkuat kerangka matematis yang sudah ada.
+- 🤖 **Machine Learning** — menerapkan regresi dan model prediktif (SVR) untuk memperkuat kerangka matematis yang sudah ada.
 - 🗣️ **Data Storytelling** — menerjemahkan temuan teknis ke audiens non-teknis, dibuktikan lewat 2+ tahun sebagai asisten lab dan asisten dosen.
 
 ### 📋 Quick Facts
 
 | | |
 |---|---|
-| 🎓 **Education** | S.Si. — Bachelor of Mathematics, Universitas Andalas (GPA 3.58/4.00) |
+| 🎓 **Education** | S.Si. — Bachelor of Science (Mathematics), Universitas Andalas (GPA 3.58/4.00) |
 | 🔬 **Research** | MBKM Magang Berdampak — BRIN RI, Computational Research Center |
 | 🏛️ **Leadership** | President — HIMATIKA (58 members, 7 divisions) |
 | 📍 **Location** | Padang, West Sumatera, Indonesia |
@@ -51,7 +51,7 @@ Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universit
 <div align="center">
 
 ### 📊 Data Analysis & Modeling
-<img src="https://skillicons.dev/icons?i=py,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,github&theme=dark" />
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
