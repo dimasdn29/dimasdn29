@@ -51,7 +51,7 @@ Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universit
 <div align="center">
 
 ### 📊 Data Analysis & Modeling
-<img src="https://skillicons.dev/icons?i=py,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,excel,powerbi,github&theme=dark" />
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
