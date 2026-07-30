@@ -23,23 +23,23 @@
 > *Carl Friedrich Gauss: "Mathematics is the queen of the sciences."*
 
 <p align="justify">
-Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universitas Andalas</b>, Padang. Fokus saya ada di tiga area: <b>Data Analytics</b>, <b>Machine Learning</b>, dan <b>Applied Mathematics</b>. Skripsi saya membangun model hibrida epidemiologi–machine learning: kerangka kompartemen <b>SIR-UV</b> dipadukan dengan <b>Support Vector Regression</b> untuk memprediksi transmisi Demam Berdarah Dengue dari variabel iklim. Riset ini dikembangkan selama program <b>MBKM Magang Berdampak BRIN</b>, di Pusat Riset Komputasi, KST Soekarno – Cibinong.
+Saya <b>Dimas Damar Nusantoro, S.Si</b> - lulusan Matematika dari <b>Universitas Andalas</b>, Padang. Fokus saya ada di tiga area: <b>Data Analytics</b>, <b>Machine Learning</b>, dan <b>Applied Mathematics</b>. Skripsi saya membangun model hibrida epidemiologi–machine learning: kerangka kompartemen <b>SIR-UV</b> dipadukan dengan <b>Support Vector Regression</b> untuk memprediksi transmisi Demam Berdarah Dengue dari variabel iklim. Riset ini dikembangkan selama program <b>MBKM Magang Berdampak BRIN</b>, di Pusat Riset Komputasi, KST Soekarno - Cibinong.
 </p>
 
 ### 🎯 What I Do
 
-- 📊 **Data Analysis & Visualization** — mengolah raw data menjadi insight yang actionable, menggunakan SQL, Excel, Power BI, dan Tableau.
-- 🧮 **Mathematical Modeling** — membangun model persamaan diferensial dan kompartemen untuk dinamika dunia nyata, dari epidemiologi hingga demografi.
-- 🤖 **Machine Learning** — menerapkan regresi dan model prediktif (SVR) untuk memperkuat kerangka matematis yang sudah ada.
-- 🗣️ **Data Storytelling** — menerjemahkan temuan teknis ke audiens non-teknis, dibuktikan lewat 2+ tahun sebagai asisten lab dan asisten dosen.
+- 📊 **Data Analysis & Visualization** - mengolah raw data menjadi insight yang actionable, menggunakan SQL, Excel, Power BI, dan Tableau.
+- 🧮 **Mathematical Modeling** - membangun model persamaan diferensial dan kompartemen untuk dinamika dunia nyata, dari epidemiologi hingga demografi.
+- 🤖 **Machine Learning** - menerapkan regresi dan model prediktif (SVR) untuk memperkuat kerangka matematis yang sudah ada.
+- 🗣️ **Data Storytelling** - menerjemahkan temuan teknis ke audiens non-teknis, dibuktikan lewat 2+ tahun sebagai asisten lab dan asisten dosen.
 
 ### 📋 Quick Facts
 
 | | |
 |---|---|
-| 🎓 **Education** | S.Si. — Bachelor of Science (Mathematics), Universitas Andalas (GPA 3.58/4.00) |
-| 🔬 **Research** | MBKM Magang Berdampak — BRIN RI, Computational Research Center |
-| 🏛️ **Leadership** | President — HIMATIKA (58 members, 7 divisions) |
+| 🎓 **Education** | S.Si. - Bachelor of Science (Mathematics), Universitas Andalas (GPA 3.58/4.00) |
+| 🔬 **Research** | MBKM Magang Berdampak - BRIN RI, Computational Research Center |
+| 🏛️ **Leadership** | President - HIMATIKA (58 members, 7 divisions) |
 | 📍 **Location** | Bengkulu, Indonesia |
 | 💼 **Focus** | Data Analytics · Mathematical Modeling · Machine Learning |
 | 🌐 **Portfolio** | [heydimdam.vercel.app](https://heydimdam.vercel.app) |
@@ -93,7 +93,7 @@ Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universit
 
 <br/>
 
-Lihat detail lengkap tiap proyek — overview, metodologi, metrik, tech stack — di **[portofolio saya](https://heydimdam.vercel.app/#projects)**.
+Lihat detail lengkap tiap proyek mulai dari overview, metodologi, metrik, tech stack di **[portofolio saya](https://heydimdam.vercel.app/#projects)**.
 
 </details>
 
@@ -145,16 +145,16 @@ Lihat detail lengkap tiap proyek — overview, metodologi, metrik, tech stack �
 
 <br/>
 
-### 🥈 First Runner-Up — HIMAMIA National Student Research Competition
+### 🥈 First Runner-Up - HIMAMIA National Student Research Competition
 > Bengkulu University, 2025. Mengembangkan dan mempresentasikan paper ilmiah di hadapan panel evaluasi tingkat nasional.
 
-### ⭐ Most Favorite Mentor — BAKTI UNAND
+### ⭐ Most Favorite Mentor - BAKTI UNAND
 > Universitas Andalas, 2023. Diakui oleh komite presidium setelah membimbing 73 mahasiswa baru selama orientasi.
 
-### 🏆 1st Place — Kompetisi Cerdas Cermat SMA/Sederajat
+### 🏆 1st Place - Kompetisi Cerdas Cermat SMA/Sederajat
 > Ipuh Subdistrict, Mukomuko, 2019. Memimpin tim beranggotakan 3 orang dan menjadi pembicara utama di bawah tekanan kompetitif.
 
-### 🎯 Finalist — District High School Physics Olympiad
+### 🎯 Finalist - District High School Physics Olympiad
 > Mukomuko, 2019/2020. Melaju sebagai finalis di antara 18 peserta, mencakup materi mekanika, elektrika, dan termodinamika.
 
 </details>
@@ -219,7 +219,7 @@ Lihat detail lengkap tiap proyek — overview, metodologi, metrik, tech stack �
 
 ### 🌟 Support My Work 🌟
 
-⭐ **Kalau proyek saya bermanfaat, silakan star repo-nya!** ⭐
+⭐ **Kalau proyek saya bermanfaat, silakan star repo-nya yaa guyss!** ⭐
 
 <br/>
 
