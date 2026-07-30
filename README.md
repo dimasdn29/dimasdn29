@@ -40,7 +40,7 @@ Saya <b>Dimas Damar Nusantoro, S.Si</b> — lulusan Matematika dari <b>Universit
 | 🎓 **Education** | S.Si. — Bachelor of Science (Mathematics), Universitas Andalas (GPA 3.58/4.00) |
 | 🔬 **Research** | MBKM Magang Berdampak — BRIN RI, Computational Research Center |
 | 🏛️ **Leadership** | President — HIMATIKA (58 members, 7 divisions) |
-| 📍 **Location** | Padang, West Sumatera, Indonesia |
+| 📍 **Location** | Bengkulu, Indonesia |
 | 💼 **Focus** | Data Analytics · Mathematical Modeling · Machine Learning |
 | 🌐 **Portfolio** | [heydimdam.vercel.app](https://heydimdam.vercel.app) |
 
